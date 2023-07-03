@@ -1,3 +1,4 @@
 export const fonts = {
-  extralight: 'Kanit-ExtraLight',
+  extralight: "Kanit-ExtraLight",
+  extraIlatic: "Kanit-ThinItalic",
 };
